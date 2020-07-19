@@ -3,7 +3,7 @@
 
 没有任何优化，只是展示一下什么是“倒排索引”
 """
-
+# comment
 import os
 
 from itertools import combinations
